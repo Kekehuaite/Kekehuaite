@@ -1,4 +1,4 @@
-[![Kekehuaite's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekehuaite)](https://github.com/Kekehuaite/github-readme-stats)
+[![Kekehuaite's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekehuaite&show_icons=true&theme=radical)](https://github.com/Kekehuaite/github-readme-stats)
 
 
 <!--
