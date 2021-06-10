@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Kekehuaite's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekehuaite)](https://github.com/Kekehuaite/github-readme-stats)
+
 
 <!--
 **Kekehuaite/Kekehuaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
